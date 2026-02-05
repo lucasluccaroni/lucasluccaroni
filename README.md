@@ -8,8 +8,9 @@
 ---
 
 ## 📫 Contacto 
-- 💼 [LinkedIn](#) *https://ar.linkedin.com/in/lucas-jose-luccaroni*
-- 📧 Email: *lucas_luccaroni@hotmail.com.ar | luccaroni@gmail.com*
+-  📧 Email: lucas_luccaroni@hotmail.com.ar | luccaroni@gmail.com
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-jose-luccaroni)
 
 --- 
 
