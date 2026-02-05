@@ -7,6 +7,12 @@
 
 ---
 
+## 📫 Contacto 
+- 💼 [LinkedIn](#) *https://ar.linkedin.com/in/lucas-jose-luccaroni*
+- 📧 Email: *lucas_luccaroni@hotmail.com.ar | luccaroni@gmail.com*
+
+--- 
+
 ## Formación académica
 - Formación en
   -  **IFTS N°29 | Tecnicatura en Desarrollo de Software**
@@ -17,7 +23,7 @@
  
 ---
 
-## 🛠️ Tecnologías y herramientas 
+## Tecnologías y herramientas 
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,7 +32,8 @@
 ![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+### Backend 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
@@ -60,15 +67,4 @@
 
 --- 
 
-## 📈 Proyectos destacados 
-
-
---- 
-
-## 📫 Contacto 
-- 💼 [LinkedIn](#) *https://ar.linkedin.com/in/lucas-jose-luccaroni*
-- 📧 Email: *lucas_luccaroni@hotmail.com.ar | luccaroni@gmail.com*
-
---- 
-
-⭐️ Si te interesa colaborar en proyectos de desarrollo o hardware, no dudes en contactarme.
+Si te interesa colaborar en proyectos de desarrollo o hardware, no dudes en contactarme.
